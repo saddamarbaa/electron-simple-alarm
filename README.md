@@ -1,2 +1,2 @@
 # electron-simple-alarm
-Simple alarm projects  with Electron.js Framework
+Simple Alarm Projects With Electron.js Framework
