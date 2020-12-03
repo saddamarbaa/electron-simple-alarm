@@ -1,0 +1,26 @@
+{
+    "name": "electron-simple-alarm",
+    "version": "1.0.0",
+    "description": "A simple alarm using Electron framework",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/saddamarbaa/electron-simple-alarm.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/saddamarbaa/electron-simple-alarm/issues"
+    },
+    "homepage": "https://github.com/saddamarbaa/electron-simple-alarm#readme",
+    "devDependencies": {
+        "electron": "^11.0.3"
+    },
+    "dependencies": {
+        "node-notifier": "^8.0.0",
+        "uuid": "^8.3.1"
+    }
+}
