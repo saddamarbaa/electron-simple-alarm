@@ -8,8 +8,7 @@ In This Project, I Build Simple Alarm With Electron.js Framework
 
 1.   install electron (npm install electron -g)
  
-2.  Run electron app.js
-
+2.   Run electron app.js
 
 
 ![image](https://user-images.githubusercontent.com/51326421/101073632-562b1380-35d2-11eb-95e6-d17ada5d32f5.png)
