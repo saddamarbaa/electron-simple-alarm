@@ -1,10 +1,10 @@
-## electron-simple-alarm
+# electron-simple-alarm
 
 In This Project, I Build Simple Alarm With Electron.js Framework
 
 ## Electron Documentation :   https://www.electronjs.org/docs/tutorial/installation
 
-##  for testing the app
+###  to use the app
 
 1.   install electron (npm install electron -g)
  
